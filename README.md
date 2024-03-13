@@ -10,3 +10,7 @@
 
 
 [![GitHub stars](https://github-readme-stats.vercel.app/api?username=suryana-code&theme=tokyonight)
+
+
+
+![Your Contributions](https://img.shields.io/github/commit-activity/y/suryana-code)
