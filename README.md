@@ -7,10 +7,3 @@
 <a href="https://medium.com/https://msuryana.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://msuryana.medium.com/" height="30" width="40" /></a>
 </p>
 
-
-
-[![GitHub stars](https://github-readme-stats.vercel.app/api?username=suryana-code&theme=tokyonight)
-
-
-
-![Your Contributions](https://img.shields.io/github/commit-activity/y/suryana-code/Mobile-Test-with-Katalon-Studio)
