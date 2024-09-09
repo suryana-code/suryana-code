@@ -3,12 +3,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/muhamad-suryana/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhamad-suryana/" height="20" width="30" /></a>
-<a href="https://medium.com/https://msuryana.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://msuryana.medium.com/" height="20" width="30" /></a>
+<a href="https://www.linkedin.com/in/muhamad-suryana/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhamad-suryana/" height="20" width="30" /></a>
+<a href="https://msuryana.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://msuryana.medium.com/" height="20" width="30" /></a>
 <a href="https://t.me/Surya_ProMild" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" height="20" width="70" />
 </a>
-
 </p>
 
 
