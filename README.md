@@ -9,19 +9,29 @@
 
 
 
-## 📃 3 My Latest Medium Articles
+## 📃 4 My Latest Medium Articles
 
- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@msuryana/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@msuryana/0" alt="Recent Article 0">
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@msuryana/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@msuryana/1" alt="Recent Article 1">
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@msuryana/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@msuryana/2" alt="Recent Article 2">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@msuryana/0">
+  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@msuryana/0" alt="Recent Article 0" width="500" height="auto">
+</a>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@msuryana/1">
+  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@msuryana/1" alt="Recent Article 1" width="500" height="auto">
+</a>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@msuryana/2">
+  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@msuryana/2" alt="Recent Article 2" width="500" height="auto">
+</a>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@msuryana/3">
+  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@msuryana/3" alt="Recent Article 2" width="500" height="auto">
+</a>
+
 
 
 
 ## 📈Stats
 <p align="left">
 <a href="https://github.com/MULKHI">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=suryana-code&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=suryana-code&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=suryana-code&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=suryana-code&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
