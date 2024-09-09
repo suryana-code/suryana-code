@@ -12,16 +12,16 @@
 ## 📃 4 My Latest Medium Articles
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@msuryana/0">
-  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@msuryana/0" alt="Recent Article 0" width="500" height="auto">
+  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@msuryana/0" alt="Recent Article 0" width="400" height="auto">
 </a>
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@msuryana/1">
-  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@msuryana/1" alt="Recent Article 1" width="500" height="auto">
+  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@msuryana/1" alt="Recent Article 1" width="400" height="auto">
 </a>
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@msuryana/2">
-  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@msuryana/2" alt="Recent Article 2" width="500" height="auto">
+  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@msuryana/2" alt="Recent Article 2" width="400" height="auto">
 </a>
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@msuryana/3">
-  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@msuryana/3" alt="Recent Article 2" width="500" height="auto">
+  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@msuryana/3" alt="Recent Article 2" width="400" height="auto">
 </a>
 
 
