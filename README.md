@@ -39,17 +39,23 @@
 </p>
 
 
-## 🔨Tools
+## 🔨 Automation Tools
 ![Katalon Studio](https://img.shields.io/badge/Katalon%20Studio-000000?style=for-the-badge&logo=katalon&logoColor=41C0F0)
 ![Appium](https://img.shields.io/badge/-appium-181717?style=for-the-badge&logo=appium)
 ![Postman](https://img.shields.io/badge/-postman-181717?style=for-the-badge&logo=postman)
 ![Cypress](https://img.shields.io/badge/-cypress-181717?style=for-the-badge&logo=cypress)
 ![Grafana k6](https://img.shields.io/badge/Grafana%20k6-000000?style=for-the-badge&logo=grafana&logoGravana)
+
+## 👨‍💻 Language
+![Groovy](https://img.shields.io/badge/-groovy-181717?style=for-the-badge&logo=groovy)
 ![Java](https://img.shields.io/badge/-java-181717?style=for-the-badge&logo=java)
 ![Javascript](https://img.shields.io/badge/-javascript-181717?style=for-the-badge&logo=javascript)
-![Jira](https://img.shields.io/badge/-jira-181717?style=for-the-badge&logo=jira)
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-000000.svg?style=for-the-badge&logo=visual-studio-code&logoVisual)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-000000.svg?style=for-the-badge&logo=code&logoVisual)
+
+## 📂 Test Management
+![Qase.io](https://img.shields.io/badge/Qase.io-000000?style=for-the-badge&logo=qase&logoColor=41C0F0)
+![Jira](https://img.shields.io/badge/-jira-181717?style=for-the-badge&logo=jira)
 
 
 ## 🧪 Testing Platform Experience
