@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Muhamad Suryana</h1>
-<h4 align="center">I am passionate about software testing with the ability to create web, mobile or API automation using various tools, especially Katalon Studio. I can create test scenarios, create automation based on test scenarios, run test automation, and also have sufficient knowledge of project management tools such as Atlassian Jira. Contact me for more information</h4>
+<h4 align="center">7+ years in software testing. I am passionate about software testing with the ability to create web, mobile, or API automation using various tools, especially Katalon Studio. I can create test scenarios, create automation based on test scenarios, run test automation, and also have sufficient knowledge of project management tools like Atlassian Jira. Contact me for more information</h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
