@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Muhamad Suryana</h1>
-<h4 align="center">7+ years in software testing. I am passionate about software testing with the ability to create web, mobile, or API automation using various tools, especially Katalon Studio. I can create test scenarios, create automation based on test scenarios, run test automation, and also have sufficient knowledge of project management tools like Atlassian Jira. Contact me for more information</h4>
+<h4 align="center">2018 was the beginning of my foray into the IT world, precisely as a Quality Assurance Tester. Starting from ignorance of the quality of software until over time now knowing how important it is to consider the quality of software before being handed over to the end user. Being part of a Tester until now, is not easy, but this is a real challenge to maintain. quality and user satisfaction are absolute appreciations to maintain.</h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
