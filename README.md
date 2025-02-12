@@ -46,27 +46,53 @@
 </p>
 
 
-## 🔨 Automation Tools
-![Katalon Studio](https://img.shields.io/badge/Katalon%20Studio-000000?style=for-the-badge&logo=katalon&logoColor=41C0F0)
-![Appium](https://img.shields.io/badge/-appium-181717?style=for-the-badge&logo=appium)
-![Postman](https://img.shields.io/badge/-postman-181717?style=for-the-badge&logo=postman)
-![Cypress](https://img.shields.io/badge/-cypress-181717?style=for-the-badge&logo=cypress)
-![Grafana k6](https://img.shields.io/badge/Grafana%20k6-000000?style=for-the-badge&logo=grafana&logoGravana)
+## QA Tools
+#### &emsp; 🔨 Mobile & Web Automation Tools
+&emsp;![Katalon Studio](https://img.shields.io/badge/Katalon%20Studio-252B38?style=for-the-badge&logo=katalon)
+&emsp;![TestProject](https://img.shields.io/badge/TestProject-252B38?style=for-the-badge&logo=testproject)
+&emsp;![Cypress](https://img.shields.io/badge/Cypress-252B38?style=for-the-badge&logo=cypress)
+&emsp;![Playwright](https://img.shields.io/badge/Playwright-252B38?style=for-the-badge&logo=playwright)
+&emsp;![Appium](https://img.shields.io/badge/Appium-252B38?style=for-the-badge&logo=appium)
 
-## 👨‍💻 Language
-![Groovy](https://img.shields.io/badge/-groovy-181717?style=for-the-badge&logo=groovy)
-![Java](https://img.shields.io/badge/-java-181717?style=for-the-badge&logo=java)
-![Javascript](https://img.shields.io/badge/-javascript-181717?style=for-the-badge&logo=javascript)
-![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-000000.svg?style=for-the-badge&logo=code&logoVisual)
 
-## 📂 Test Management
-![Qase.io](https://img.shields.io/badge/Qase.io-000000?style=for-the-badge&logo=qase&logoColor=41C0F0)
-![Jira](https://img.shields.io/badge/-jira-181717?style=for-the-badge&logo=jira)
+#### &emsp; 🚀 Performance Automation Testing Tools
+&emsp;![K6](https://img.shields.io/badge/K6-252B38?style=for-the-badge&logo=k6)
+&emsp;![JMeter](https://img.shields.io/badge/Apache%20JMeter-252B38?style=for-the-badge&logo=apache-jmeter)
+&emsp;![Postman](https://img.shields.io/badge/Postman-252B38?style=for-the-badge&logo=postman)
+
+
+#### &emsp; 🔌 API Testing Automation Tools
+&emsp;![Postman](https://img.shields.io/badge/Postman-252B38?style=for-the-badge&logo=postman)
+&emsp;![Cypress](https://img.shields.io/badge/Cypress-252B38?style=for-the-badge&logo=cypress)
+&emsp;![Playwright](https://img.shields.io/badge/Playwright-252B38?style=for-the-badge&logo=playwright)
+
+
+#### &emsp; 📂 Test Management
+&emsp;![Qase.io](https://img.shields.io/badge/Qase.io-252B38?style=for-the-badge&logo=qase&logoColor=white)
+&emsp;![Jira](https://img.shields.io/badge/Jira-252B38?style=for-the-badge&logo=jira&logoColor=007ACC)
+
+#### &emsp; 👨‍💻 Programming Languages
+&emsp;![Groovy](https://img.shields.io/badge/Groovy-252B38?style=for-the-badge&logo=apache-groovy)
+&emsp;![Java](https://img.shields.io/badge/Java-252B38?style=for-the-badge&logo=java)
+&emsp;![JavaScript](https://img.shields.io/badge/JavaScript-252B38?style=for-the-badge&logo=javascript)
+&emsp;![TypeScript](https://img.shields.io/badge/TypeScript-252B38?style=for-the-badge&logo=typescript)
+
+#### &emsp; 🔧 Other Tools
+&emsp;![BrowserStack](https://img.shields.io/badge/BrowserStack-252B38?style=for-the-badge&logo=browserstack)
+&emsp;![Github](https://img.shields.io/badge/Github-252B38?style=for-the-badge&logo=git)
+&emsp;![Figma](https://img.shields.io/badge/Figma-252B38?style=for-the-badge&logo=figma)
+&emsp;![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-252B38?style=for-the-badge&logo=microsoft-office)
+&emsp;![VS Code](https://img.shields.io/badge/VS%20Code-252B38?style=for-the-badge&logo=visual-studio-code)
+&emsp;![Kobiton](https://img.shields.io/badge/Kobiton-252B38?style=for-the-badge)
+&emsp;![UiPath](https://img.shields.io/badge/UiPath-252B38?style=for-the-badge&logo=UiPath)
+&emsp;![Trello](https://img.shields.io/badge/Trello-252B38?style=for-the-badge&logo=Trello)
+&emsp;![Google Office (Doc, Spreadseet)](https://img.shields.io/badge/Google%20Office%20Doc%20Spreadseet-252B38?style=for-the-badge&logo=Google)
+
+
 
 
 ## 🧪 Testing Platform Experience
-![Mobile](https://img.shields.io/badge/📱%20Mobile-000000?style=for-the-badge&logo=phone&logoColor=ffffff)
+![Mobile (Android & IOS)](https://img.shields.io/badge/📱%20Mobile%20[Android%20&%20IOS]-000000?style=for-the-badge&logo=phone&logoColor=ffffff)
 ![Website](https://img.shields.io/badge/🌐%20Website-000000?style=for-the-badge&logo=phone&logoColor=ffffff)
 ![API](https://img.shields.io/badge/💻%20API-000000?style=for-the-badge&logo=phone&logoColor=ffffff)
 ![Webview](https://img.shields.io/badge/🌐%20Webview-000000?style=for-the-badge&logo=phone&logoColor=ffffff)
