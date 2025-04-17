@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Muhamad Suryana</h1>
-<h4 align="center">2018 was the beginning of my foray into the IT world, precisely as a Quality Assurance Tester. Starting from ignorance of the quality of software until over time now knowing how important it is to consider the quality of software before being handed over to the end user. Being part of a Tester until now, is not easy, but this is a real challenge to maintain. quality and user satisfaction are absolute appreciations to maintain.</h4>
+<p align="center">2018 was the beginning of my foray into the IT world, precisely as a Quality Assurance Tester. Starting from ignorance of the quality of software until over time now knowing how important it is to consider the quality of software before being handed over to the end user. Being part of a Tester until now, is not easy, but this is a real challenge to maintain. quality and user satisfaction are absolute appreciations to maintain.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
