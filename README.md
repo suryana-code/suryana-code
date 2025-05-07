@@ -46,7 +46,7 @@
 </p>
 
 
-## QA Tools
+<!-- ## QA Tools 
 #### &emsp; 🔨 Mobile & Web Automation Tools
 &emsp;![Katalon Studio](https://img.shields.io/badge/Katalon%20Studio-252B38?style=for-the-badge&logo=katalon)
 &emsp;![TestProject](https://img.shields.io/badge/TestProject-252B38?style=for-the-badge&logo=testproject)
@@ -86,7 +86,7 @@
 &emsp;![Kobiton](https://img.shields.io/badge/Kobiton-252B38?style=for-the-badge)
 &emsp;![UiPath](https://img.shields.io/badge/UiPath-252B38?style=for-the-badge&logo=UiPath)
 &emsp;![Trello](https://img.shields.io/badge/Trello-252B38?style=for-the-badge&logo=Trello)
-&emsp;![Google Office (Doc, Spreadseet)](https://img.shields.io/badge/Google%20Office%20Doc%20Spreadseet-252B38?style=for-the-badge&logo=Google)
+&emsp;![Google Office (Doc, Spreadseet)](https://img.shields.io/badge/Google%20Office%20Doc%20Spreadseet-252B38?style=for-the-badge&logo=Google) -->
 
 
 
